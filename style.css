@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+}
+
+.restart-btn {
+	display: none;
+	position: absolute;
+	width: 400px;
+	font-size: 38px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.show {
+	display: block;
+}
